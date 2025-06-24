@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "module": "ESNext",
+      "moduleResolution": "Node",
+      "jsx": "react-jsx",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "baseUrl": "./",
+      "paths": {
+        "@redux/*": ["src/redux/*"],
+        "@components/*": ["src/components/*"]
+      }
+    },
+    "include": ["src"]
+  }
+  

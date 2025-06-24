@@ -1,0 +1,11 @@
+{
+    "id": "your-extension-id",
+    "name": "Your App Name",
+    "src": "https://your-hosted-url/manifest.js",
+    "parameters": {
+      "installation": {},
+      "instance": {}
+    },
+    "locations": ["app-config"]
+  }
+  
